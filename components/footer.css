@@ -103,6 +103,9 @@
   font-weight: 600;
   margin-bottom: var(--dl-space-space-threeunits);
 }
+.footer-link {
+  text-decoration: none;
+}
 .footer-container3 {
   flex: 0 0 auto;
   width: 50%;
@@ -110,13 +113,13 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.footer-text4 {
+.footer-text3 {
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.footer-link {
+.footer-link1 {
   text-decoration: none;
 }
 @media(max-width: 991px) {
@@ -145,7 +148,7 @@
   .footer-container3 {
     width: 100%;
   }
-  .footer-text4 {
+  .footer-text3 {
     margin-bottom: var(--dl-space-space-twounits);
   }
 }
